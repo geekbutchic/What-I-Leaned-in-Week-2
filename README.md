@@ -14,7 +14,7 @@
 
 ![Alt Text](https://i.ytimg.com/vi/N8ap4k_1QEQ/maxresdefault.jpg)
 
-#### Generally speaking, a function is a *"subprogram"*that can be called by code external (or internal in the case of recursion) to the function. Like the program itself, a function is composed of a sequence of statements called the function body. Values can be passed to a function, and the function will return a value.
+#### Generally speaking, a function is a "subprogram" that can be called by code external (or internal in the case of recursion) to the function. Like the program itself, a function is composed of a sequence of statements called the function body. Values can be passed to a function, and the function will return a value.
 
 ### Functions with Parameters:
   * Functions can return values that can be displayed, assigned to variables, or passed to other functions.
