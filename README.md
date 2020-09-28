@@ -1,1 +1,1 @@
-# What-I-Learned-in-Week-2
+# whatILearnedInWeek2
